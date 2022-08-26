@@ -1,1 +1,3 @@
 # Lift Controller
+
+## Hardware Design
